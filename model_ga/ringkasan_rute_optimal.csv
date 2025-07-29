@@ -1,0 +1,852 @@
+Batch,Vehicle,Rute_Optimal,Jarak_Total_km
+1,van,Lembong ➝ Jalan Braga ➝ Dago ➝ Setiabudi,7.38
+2,van,Buah Batu ➝ Lembong ➝ Jalan Braga ➝ Cihampelas,5.49
+3,van,Cihampelas ➝ Dago ➝ Lembong ➝ Buah Batu ➝ Ciwidey,36.27
+4,cargo truck,Jalan Braga ➝ Kebon Kawung ➝ Buah Batu ➝ Ciwidey,30.59
+5,cargo truck,Cihampelas ➝ Dago ➝ Lembong ➝ Buah Batu ➝ Ciwidey,36.27
+6,van,Lembong ➝ Buah Batu ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi,12.62
+7,van,Lembong ➝ Jalan Braga ➝ Kebon Kawung ➝ Setiabudi ➝ Ciwidey,35.49
+8,van,Pasir Kaliki ➝ Lembong ➝ Buah Batu ➝ Dago,12.07
+9,cargo truck,Kebon Kawung ➝ Jalan Braga ➝ Buah Batu ➝ Dago,11.75
+10,van,Pasir Kaliki ➝ Jalan Braga ➝ Lembong ➝ Dago,5.97
+11,van,Cihampelas ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago,7.05
+12,van,Kebon Kawung ➝ Dago ➝ Jalan Braga ➝ Ciwidey,35.17
+13,cargo truck,Jalan Braga ➝ Pasir Kaliki ➝ Dago ➝ Setiabudi,8.77
+14,pick up truck,Pasir Kaliki ➝ Buah Batu ➝ Dago,11.66
+15,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Lembong ➝ Dago ➝ Setiabudi,8.84
+16,van,Jalan Braga ➝ Cihampelas ➝ Pasir Kaliki ➝ Buah Batu ➝ Ciwidey,33.7
+17,cargo truck,Jalan Braga ➝ Lembong ➝ Kebon Kawung ➝ Riau ➝ Buah Batu,6.81
+18,cargo truck,Setiabudi ➝ Kebon Kawung ➝ Jalan Braga ➝ Pasir Kaliki ➝ Ciwidey,32.45
+19,pick up truck,Jalan Braga ➝ Pasir Kaliki ➝ Dago,6.19
+20,cargo truck,Pasir Kaliki ➝ Cihampelas ➝ Setiabudi,5.56
+21,van,Kebon Kawung ➝ Pasir Kaliki ➝ Riau ➝ Cihampelas ➝ Dago,7.08
+22,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Lembong ➝ Jalan Braga,8.26
+23,van,Cihampelas ➝ Jalan Braga ➝ Pasir Kaliki ➝ Setiabudi,8.54
+24,pick up truck,Dago ➝ Cihampelas ➝ Pasir Kaliki,4.98
+25,van,Lembong ➝ Dago ➝ Setiabudi ➝ Ciwidey,36.75
+26,van,Setiabudi ➝ Dago ➝ Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga,8.78
+27,cargo truck,Jalan Braga ➝ Kebon Kawung ➝ Riau ➝ Setiabudi ➝ Ciwidey,36.85
+28,van,Jalan Braga ➝ Dago ➝ Setiabudi ➝ Cihampelas ➝ Ciwidey,38.14
+29,cargo truck,Setiabudi ➝ Cihampelas ➝ Kebon Kawung,5.04
+30,cargo truck,Kebon Kawung ➝ Jalan Braga ➝ Ciwidey,27.02
+31,pick up truck,Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga ➝ Lembong ➝ Dago,8.01
+32,cargo truck,Setiabudi ➝ Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga,8.84
+33,van,Jalan Braga ➝ Lembong ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi,6.18
+34,cargo truck,Riau ➝ Cihampelas ➝ Kebon Kawung ➝ Lembong ➝ Ciwidey,30.12
+35,pick up truck,Riau ➝ Pasir Kaliki,2.13
+36,van,Kebon Kawung ➝ Cihampelas ➝ Dago ➝ Riau ➝ Lembong ➝ Ciwidey,35.32
+37,cargo truck,Lembong ➝ Cihampelas ➝ Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Buah Batu,16.71
+38,cargo truck,Pasir Kaliki ➝ Buah Batu ➝ Jalan Braga ➝ Cihampelas ➝ Dago ➝ Setiabudi,15.16
+39,van,Dago ➝ Setiabudi ➝ Cihampelas ➝ Riau ➝ Pasir Kaliki,9.66
+40,pick up truck,Cihampelas ➝ Riau ➝ Lembong ➝ Buah Batu ➝ Ciwidey,31.34
+41,cargo truck,Jalan Braga ➝ Buah Batu ➝ Pasir Kaliki ➝ Setiabudi,12.84
+42,cargo truck,Buah Batu ➝ Jalan Braga ➝ Riau ➝ Cihampelas ➝ Dago,9.02
+43,pick up truck,Kebon Kawung ➝ Pasir Kaliki ➝ Dago ➝ Setiabudi,8.14
+44,van,Jalan Braga ➝ Lembong ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Buah Batu,5.96
+45,pick up truck,Dago ➝ Jalan Braga,4.69
+46,pick up truck,Lembong ➝ Pasir Kaliki ➝ Riau ➝ Dago,6.93
+47,pick up truck,Cihampelas ➝ Dago,2.94
+48,cargo truck,Buah Batu ➝ Lembong ➝ Pasir Kaliki ➝ Dago ➝ Setiabudi,12.19
+49,cargo truck,Buah Batu ➝ Kebon Kawung ➝ Riau ➝ Dago ➝ Setiabudi,11.9
+50,pick up truck,Cihampelas ➝ Lembong ➝ Buah Batu,5.37
+51,cargo truck,Setiabudi ➝ Dago ➝ Riau ➝ Lembong,7.29
+52,van,Setiabudi ➝ Dago ➝ Cihampelas ➝ Lembong,7.57
+53,van,Dago ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga,6.23
+54,van,Pasir Kaliki ➝ Jalan Braga ➝ Ciwidey,27.28
+55,pick up truck,Pasir Kaliki ➝ Cihampelas ➝ Setiabudi,5.56
+56,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Cihampelas ➝ Setiabudi,7.39
+57,van,Lembong ➝ Buah Batu ➝ Pasir Kaliki ➝ Setiabudi,12.81
+58,cargo truck,Buah Batu ➝ Lembong ➝ Jalan Braga ➝ Kebon Kawung ➝ Cihampelas,5.91
+59,cargo truck,Ciwidey ➝ Lembong ➝ Kebon Kawung ➝ Dago,31.61
+60,cargo truck,Riau ➝ Dago ➝ Cihampelas ➝ Lembong ➝ Buah Batu,11.79
+61,van,Buah Batu ➝ Dago ➝ Setiabudi,10.01
+62,van,Buah Batu ➝ Jalan Braga ➝ Lembong ➝ Dago ➝ Cihampelas ➝ Ciwidey,38.38
+63,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Riau ➝ Jalan Braga,8.83
+64,pick up truck,Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Jalan Braga,5.42
+65,van,Lembong ➝ Jalan Braga ➝ Buah Batu ➝ Pasir Kaliki ➝ Dago,12.66
+66,cargo truck,Setiabudi ➝ Dago ➝ Jalan Braga ➝ Pasir Kaliki,8.49
+67,van,Buah Batu ➝ Jalan Braga ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago ➝ Setiabudi,12.13
+68,pick up truck,Cihampelas ➝ Kebon Kawung ➝ Dago,5.94
+69,pick up truck,Jalan Braga ➝ Riau ➝ Buah Batu,5.39
+70,cargo truck,Kebon Kawung ➝ Lembong ➝ Buah Batu ➝ Riau ➝ Dago ➝ Setiabudi,14.5
+71,pick up truck,Riau ➝ Dago ➝ Kebon Kawung ➝ Buah Batu,12.16
+72,pick up truck,Dago ➝ Riau,3.48
+73,pick up truck,Dago ➝ Cihampelas ➝ Buah Batu,8.26
+74,van,Buah Batu ➝ Pasir Kaliki ➝ Cihampelas,6.27
+75,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga,9.36
+76,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Buah Batu,11.88
+77,van,Jalan Braga ➝ Buah Batu ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago,12.56
+78,van,Kebon Kawung ➝ Cihampelas ➝ Setiabudi,5.04
+79,cargo truck,Lembong ➝ Buah Batu ➝ Jalan Braga ➝ Kebon Kawung ➝ Dago,12.06
+80,cargo truck,Riau ➝ Cihampelas ➝ Lembong ➝ Ciwidey,29.62
+81,van,Dago ➝ Setiabudi ➝ Cihampelas ➝ Riau,7.52
+82,pick up truck,Setiabudi ➝ Dago ➝ Riau ➝ Lembong,7.29
+83,van,Lembong ➝ Jalan Braga ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi,6.11
+84,cargo truck,Dago ➝ Setiabudi ➝ Ciwidey,32.11
+85,cargo truck,Lembong ➝ Jalan Braga ➝ Kebon Kawung ➝ Cihampelas,2.59
+86,pick up truck,Jalan Braga ➝ Lembong ➝ Dago,4.75
+87,pick up truck,Buah Batu ➝ Kebon Kawung ➝ Cihampelas,5.78
+88,van,Dago ➝ Setiabudi ➝ Riau ➝ Kebon Kawung ➝ Ciwidey,34.89
+89,pick up truck,Buah Batu ➝ Lembong ➝ Dago,7.96
+90,van,Jalan Braga ➝ Pasir Kaliki ➝ Riau ➝ Dago ➝ Setiabudi,9.41
+91,cargo truck,Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Buah Batu,8.71
+92,pick up truck,Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Jalan Braga ➝ Ciwidey,34.49
+93,cargo truck,Cihampelas ➝ Riau ➝ Lembong ➝ Jalan Braga ➝ Kebon Kawung ➝ Pasir Kaliki,4.31
+94,cargo truck,Dago ➝ Setiabudi ➝ Jalan Braga ➝ Buah Batu ➝ Ciwidey,36.87
+95,van,Pasir Kaliki ➝ Kebon Kawung ➝ Riau ➝ Lembong ➝ Buah Batu ➝ Ciwidey,32.08
+96,van,Kebon Kawung ➝ Dago ➝ Jalan Braga ➝ Ciwidey,35.17
+97,pick up truck,Jalan Braga ➝ Pasir Kaliki ➝ Riau ➝ Setiabudi,8.12
+98,van,Dago ➝ Jalan Braga ➝ Ciwidey,30.75
+99,van,Jalan Braga ➝ Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Ciwidey,35.11
+100,van,Jalan Braga ➝ Buah Batu ➝ Riau ➝ Dago ➝ Setiabudi,13.5
+101,van,Setiabudi ➝ Kebon Kawung ➝ Lembong ➝ Jalan Braga ➝ Ciwidey,32.08
+102,van,Setiabudi ➝ Dago ➝ Cihampelas ➝ Lembong ➝ Jalan Braga,7.68
+103,pick up truck,Kebon Kawung ➝ Cihampelas ➝ Buah Batu,6.84
+104,pick up truck,Dago ➝ Setiabudi,2.58
+105,van,Setiabudi ➝ Dago ➝ Cihampelas ➝ Riau ➝ Kebon Kawung,8.52
+106,van,Lembong ➝ Jalan Braga ➝ Buah Batu ➝ Dago,10.89
+107,pick up truck,Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Buah Batu,9.3
+108,pick up truck,Dago ➝ Setiabudi ➝ Buah Batu,11.4
+109,van,Riau ➝ Buah Batu ➝ Pasir Kaliki ➝ Cihampelas ➝ Setiabudi,13.88
+110,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Lembong ➝ Cihampelas ➝ Dago,6.9
+111,pick up truck,Kebon Kawung ➝ Dago,4.42
+112,pick up truck,Cihampelas ➝ Lembong ➝ Riau ➝ Dago,6.76
+113,van,Cihampelas ➝ Lembong ➝ Kebon Kawung ➝ Setiabudi,7.97
+114,cargo truck,Kebon Kawung ➝ Lembong ➝ Cihampelas ➝ Dago,6.03
+115,van,Dago ➝ Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki,8.2
+116,pick up truck,Dago ➝ Cihampelas ➝ Riau,4.36
+117,van,Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Setiabudi ➝ Ciwidey,36.91
+118,cargo truck,Setiabudi ➝ Dago ➝ Kebon Kawung ➝ Buah Batu,11.26
+119,van,Jalan Braga ➝ Kebon Kawung ➝ Cihampelas ➝ Dago ➝ Setiabudi,8.0
+120,pick up truck,Setiabudi ➝ Kebon Kawung ➝ Lembong,5.92
+121,cargo truck,Cihampelas ➝ Jalan Braga ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Ciwidey,28.99
+122,cargo truck,Kebon Kawung ➝ Jalan Braga ➝ Cihampelas ➝ Dago,5.96
+123,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Dago,5.56
+124,van,Pasir Kaliki ➝ Cihampelas ➝ Dago ➝ Ciwidey,35.24
+125,van,Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki,5.04
+126,cargo truck,Jalan Braga ➝ Lembong ➝ Kebon Kawung ➝ Riau ➝ Buah Batu,6.81
+127,pick up truck,Setiabudi ➝ Pasir Kaliki,5.26
+128,pick up truck,Ciwidey ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,30.42
+129,pick up truck,Ciwidey ➝ Pasir Kaliki ➝ Dago,30.35
+130,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Lembong ➝ Ciwidey,30.3
+131,pick up truck,Buah Batu ➝ Pasir Kaliki ➝ Kebon Kawung,4.82
+132,cargo truck,Ciwidey ➝ Jalan Braga ➝ Kebon Kawung ➝ Dago ➝ Setiabudi,34.03
+133,cargo truck,Setiabudi ➝ Dago ➝ Riau ➝ Jalan Braga ➝ Kebon Kawung,8.33
+134,cargo truck,Pasir Kaliki ➝ Cihampelas ➝ Dago ➝ Lembong ➝ Ciwidey,35.77
+135,van,Dago ➝ Riau ➝ Jalan Braga ➝ Cihampelas ➝ Setiabudi,10.37
+136,pick up truck,Dago ➝ Setiabudi ➝ Ciwidey,32.11
+137,cargo truck,Lembong ➝ Jalan Braga ➝ Pasir Kaliki ➝ Riau ➝ Cihampelas ➝ Dago,7.82
+138,cargo truck,Jalan Braga ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago,6.23
+139,van,Pasir Kaliki ➝ Kebon Kawung ➝ Riau ➝ Cihampelas ➝ Setiabudi,7.11
+140,pick up truck,Riau ➝ Pasir Kaliki ➝ Dago,7.1
+141,van,Jalan Braga ➝ Cihampelas ➝ Dago ➝ Setiabudi,7.58
+142,cargo truck,Lembong ➝ Setiabudi ➝ Dago ➝ Buah Batu ➝ Ciwidey,40.95
+143,van,Riau ➝ Lembong ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago ➝ Setiabudi,10.14
+144,pick up truck,Cihampelas ➝ Lembong ➝ Setiabudi,7.63
+145,pick up truck,Ciwidey ➝ Buah Batu ➝ Jalan Braga ➝ Cihampelas,30.77
+146,van,Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Lembong,1.91
+147,cargo truck,Dago ➝ Setiabudi ➝ Pasir Kaliki ➝ Buah Batu,12.07
+148,pick up truck,Cihampelas ➝ Jalan Braga ➝ Dago ➝ Setiabudi,9.33
+149,van,Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Lembong ➝ Buah Batu,6.75
+150,cargo truck,Pasir Kaliki ➝ Lembong ➝ Riau ➝ Cihampelas,3.97
+151,van,Riau ➝ Lembong ➝ Jalan Braga ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Setiabudi,8.03
+152,cargo truck,Riau ➝ Lembong ➝ Jalan Braga ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago,7.54
+153,pick up truck,Cihampelas ➝ Jalan Braga ➝ Setiabudi,7.64
+154,van,Dago ➝ Setiabudi ➝ Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga ➝ Lembong,9.47
+155,pick up truck,Jalan Braga ➝ Cihampelas ➝ Dago,5.0
+156,van,Ciwidey ➝ Jalan Braga ➝ Lembong ➝ Cihampelas ➝ Dago ➝ Setiabudi,33.74
+157,van,Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Dago,8.02
+158,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Buah Batu,11.42
+159,van,Lembong ➝ Buah Batu ➝ Dago ➝ Setiabudi,13.33
+160,van,Cihampelas ➝ Riau ➝ Ciwidey,28.77
+161,van,Setiabudi ➝ Dago ➝ Jalan Braga ➝ Ciwidey,33.33
+162,van,Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Jalan Braga,8.43
+163,van,Dago ➝ Cihampelas ➝ Jalan Braga ➝ Ciwidey,31.06
+164,pick up truck,Lembong ➝ Pasir Kaliki ➝ Cihampelas ➝ Setiabudi,6.88
+165,pick up truck,Buah Batu ➝ Jalan Braga,3.35
+166,van,Setiabudi ➝ Dago ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Buah Batu,11.82
+167,pick up truck,Dago ➝ Setiabudi ➝ Jalan Braga,8.16
+168,pick up truck,Buah Batu ➝ Kebon Kawung ➝ Dago,8.68
+169,cargo truck,Buah Batu ➝ Lembong ➝ Jalan Braga ➝ Cihampelas,5.49
+170,pick up truck,Ciwidey ➝ Lembong ➝ Riau ➝ Cihampelas,28.8
+171,pick up truck,Dago ➝ Cihampelas ➝ Riau,4.36
+172,pick up truck,Dago ➝ Cihampelas ➝ Kebon Kawung,4.46
+173,pick up truck,Pasir Kaliki ➝ Lembong ➝ Dago,5.96
+174,van,Lembong ➝ Jalan Braga ➝ Kebon Kawung ➝ Dago,5.49
+175,pick up truck,Dago ➝ Cihampelas ➝ Pasir Kaliki,4.98
+176,pick up truck,Lembong ➝ Riau ➝ Cihampelas,2.65
+177,pick up truck,Ciwidey ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago,30.39
+178,cargo truck,Dago ➝ Setiabudi ➝ Jalan Braga,8.16
+179,pick up truck,Dago ➝ Kebon Kawung ➝ Jalan Braga,5.39
+180,van,Ciwidey ➝ Buah Batu ➝ Jalan Braga ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,34.14
+181,van,Lembong ➝ Jalan Braga ➝ Dago ➝ Ciwidey,35.06
+182,van,Lembong ➝ Jalan Braga ➝ Riau ➝ Cihampelas ➝ Dago,5.77
+183,van,Dago ➝ Kebon Kawung ➝ Jalan Braga ➝ Ciwidey,31.45
+184,cargo truck,Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Riau ➝ Buah Batu ➝ Ciwidey,35.49
+185,cargo truck,Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Ciwidey,30.42
+186,pick up truck,Dago ➝ Setiabudi,2.58
+187,cargo truck,Setiabudi ➝ Riau ➝ Lembong ➝ Jalan Braga ➝ Kebon Kawung,7.07
+188,van,Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu ➝ Dago,12.0
+189,cargo truck,Ciwidey ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago,30.39
+190,pick up truck,Buah Batu ➝ Riau ➝ Cihampelas,5.51
+191,pick up truck,Pasir Kaliki ➝ Kebon Kawung ➝ Setiabudi,5.47
+192,van,Cihampelas ➝ Dago ➝ Riau ➝ Pasir Kaliki ➝ Buah Batu,12.79
+193,van,Dago ➝ Setiabudi ➝ Cihampelas ➝ Pasir Kaliki ➝ Ciwidey,33.52
+194,pick up truck,Buah Batu ➝ Riau ➝ Dago ➝ Setiabudi,10.15
+195,cargo truck,Cihampelas ➝ Dago ➝ Kebon Kawung ➝ Buah Batu ➝ Ciwidey,36.98
+196,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Lembong ➝ Buah Batu ➝ Dago ➝ Setiabudi,14.95
+197,cargo truck,Lembong ➝ Jalan Braga ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago,6.33
+198,cargo truck,Dago ➝ Cihampelas ➝ Riau ➝ Jalan Braga ➝ Buah Batu,9.02
+199,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga,9.36
+200,pick up truck,Kebon Kawung ➝ Cihampelas ➝ Setiabudi,5.04
+201,pick up truck,Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Lembong,6.07
+202,pick up truck,Jalan Braga ➝ Lembong ➝ Cihampelas,2.16
+203,van,Dago ➝ Kebon Kawung ➝ Jalan Braga ➝ Lembong,5.49
+204,van,Jalan Braga ➝ Kebon Kawung ➝ Riau ➝ Cihampelas ➝ Dago,6.91
+205,cargo truck,Jalan Braga ➝ Dago ➝ Cihampelas ➝ Pasir Kaliki ➝ Ciwidey,35.05
+206,cargo truck,Ciwidey ➝ Buah Batu ➝ Jalan Braga ➝ Riau ➝ Cihampelas ➝ Dago,34.38
+207,van,Ciwidey ➝ Buah Batu ➝ Jalan Braga ➝ Kebon Kawung ➝ Pasir Kaliki,30.26
+208,van,Buah Batu ➝ Kebon Kawung ➝ Dago ➝ Setiabudi,11.26
+209,cargo truck,Setiabudi ➝ Dago ➝ Cihampelas ➝ Lembong,7.57
+210,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Lembong ➝ Setiabudi,7.48
+211,pick up truck,Cihampelas ➝ Kebon Kawung ➝ Lembong ➝ Buah Batu,5.87
+212,pick up truck,Lembong ➝ Riau ➝ Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki,4.75
+213,cargo truck,Riau ➝ Lembong ➝ Jalan Braga ➝ Cihampelas ➝ Setiabudi,6.92
+215,cargo truck,Kebon Kawung ➝ Cihampelas ➝ Dago ➝ Setiabudi,7.04
+216,pick up truck,Ciwidey ➝ Kebon Kawung ➝ Dago ➝ Setiabudi,32.96
+217,pick up truck,Kebon Kawung ➝ Dago ➝ Setiabudi,7.0
+218,pick up truck,Dago ➝ Cihampelas ➝ Riau,4.36
+219,van,Buah Batu ➝ Pasir Kaliki ➝ Riau ➝ Setiabudi,11.13
+220,pick up truck,Pasir Kaliki ➝ Kebon Kawung,0.58
+221,van,Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Ciwidey,33.43
+222,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas,6.1
+223,van,Dago ➝ Setiabudi ➝ Riau ➝ Jalan Braga ➝ Pasir Kaliki,9.88
+224,cargo truck,Ciwidey ➝ Buah Batu ➝ Cihampelas ➝ Dago,33.62
+225,pick up truck,Pasir Kaliki ➝ Kebon Kawung ➝ Setiabudi,5.47
+226,pick up truck,Jalan Braga ➝ Kebon Kawung ➝ Riau,2.55
+227,cargo truck,Setiabudi ➝ Dago ➝ Cihampelas ➝ Jalan Braga ➝ Buah Batu,10.93
+228,van,Buah Batu ➝ Lembong ➝ Jalan Braga ➝ Kebon Kawung ➝ Dago,8.82
+229,pick up truck,Dago ➝ Cihampelas ➝ Pasir Kaliki,4.98
+230,cargo truck,Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Riau ➝ Buah Batu,13.13
+231,cargo truck,Pasir Kaliki ➝ Jalan Braga ➝ Lembong ➝ Cihampelas,3.38
+232,van,Dago ➝ Cihampelas ➝ Jalan Braga ➝ Ciwidey,31.06
+233,pick up truck,Cihampelas ➝ Kebon Kawung ➝ Dago,5.94
+234,cargo truck,Buah Batu ➝ Dago ➝ Cihampelas ➝ Ciwidey,37.72
+235,van,Setiabudi ➝ Dago ➝ Cihampelas ➝ Jalan Braga ➝ Ciwidey,33.64
+236,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas,6.1
+237,cargo truck,Kebon Kawung ➝ Jalan Braga ➝ Lembong ➝ Riau ➝ Cihampelas,3.72
+238,cargo truck,Lembong ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Setiabudi,6.79
+239,van,Lembong ➝ Jalan Braga ➝ Riau ➝ Dago ➝ Ciwidey,35.15
+240,van,Ciwidey ➝ Buah Batu ➝ Riau ➝ Cihampelas ➝ Kebon Kawung,32.39
+241,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Riau ➝ Lembong ➝ Ciwidey,30.9
+242,van,Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Jalan Braga ➝ Ciwidey,30.22
+243,pick up truck,Setiabudi ➝ Riau ➝ Buah Batu,8.85
+244,pick up truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Kebon Kawung,7.62
+245,van,Dago ➝ Cihampelas ➝ Riau ➝ Lembong,5.59
+246,cargo truck,Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Lembong,3.42
+247,pick up truck,Dago ➝ Riau ➝ Kebon Kawung,5.06
+248,pick up truck,Setiabudi ➝ Jalan Braga ➝ Buah Batu,8.93
+249,pick up truck,Buah Batu ➝ Cihampelas ➝ Dago ➝ Setiabudi,10.84
+250,van,Ciwidey ➝ Buah Batu ➝ Jalan Braga ➝ Cihampelas ➝ Dago,33.71
+251,pick up truck,Dago ➝ Jalan Braga,4.69
+252,van,Lembong ➝ Jalan Braga ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago,6.33
+253,cargo truck,Setiabudi ➝ Dago ➝ Kebon Kawung ➝ Jalan Braga,7.97
+254,cargo truck,Jalan Braga ➝ Buah Batu ➝ Riau ➝ Cihampelas ➝ Setiabudi,12.38
+255,cargo truck,Kebon Kawung ➝ Cihampelas ➝ Setiabudi,5.04
+256,van,Riau ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi,6.62
+257,pick up truck,Buah Batu ➝ Jalan Braga,3.35
+258,van,Setiabudi ➝ Kebon Kawung ➝ Lembong ➝ Ciwidey,32.07
+259,cargo truck,Kebon Kawung ➝ Cihampelas ➝ Setiabudi ➝ Riau ➝ Jalan Braga ➝ Buah Batu,14.46
+260,cargo truck,Cihampelas ➝ Pasir Kaliki ➝ Lembong ➝ Dago ➝ Setiabudi,10.58
+261,van,Setiabudi ➝ Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Jalan Braga ➝ Buah Batu,11.35
+262,pick up truck,Buah Batu ➝ Riau ➝ Cihampelas,5.51
+263,van,Lembong ➝ Riau ➝ Dago ➝ Pasir Kaliki ➝ Ciwidey,35.06
+264,pick up truck,Buah Batu ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi,9.3
+265,van,Jalan Braga ➝ Buah Batu ➝ Kebon Kawung ➝ Setiabudi,12.49
+266,pick up truck,Setiabudi ➝ Dago ➝ Cihampelas,5.52
+267,cargo truck,Cihampelas ➝ Kebon Kawung ➝ Lembong ➝ Buah Batu,5.87
+268,pick up truck,Jalan Braga ➝ Lembong ➝ Kebon Kawung,1.14
+269,van,Buah Batu ➝ Lembong ➝ Jalan Braga ➝ Ciwidey,29.49
+270,pick up truck,Riau ➝ Cihampelas ➝ Jalan Braga ➝ Ciwidey,29.54
+271,pick up truck,Cihampelas ➝ Riau ➝ Jalan Braga ➝ Pasir Kaliki ➝ Setiabudi,9.21
+272,van,Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,12.62
+273,van,Dago ➝ Kebon Kawung ➝ Pasir Kaliki,5.01
+274,cargo truck,Jalan Braga ➝ Dago ➝ Setiabudi,7.27
+275,van,Cihampelas ➝ Jalan Braga ➝ Riau ➝ Dago ➝ Setiabudi,9.43
+276,pick up truck,Setiabudi ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Lembong,6.79
+277,van,Jalan Braga ➝ Lembong ➝ Cihampelas ➝ Setiabudi,5.68
+278,cargo truck,Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga ➝ Lembong ➝ Buah Batu,6.69
+279,cargo truck,Ciwidey ➝ Lembong ➝ Cihampelas ➝ Dago ➝ Setiabudi,33.72
+280,van,Ciwidey ➝ Buah Batu ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago,34.58
+281,cargo truck,Cihampelas ➝ Dago ➝ Jalan Braga ➝ Buah Batu,10.98
+282,cargo truck,Cihampelas ➝ Pasir Kaliki ➝ Lembong ➝ Buah Batu,6.68
+283,van,Dago ➝ Setiabudi ➝ Cihampelas ➝ Riau,7.52
+284,pick up truck,Kebon Kawung ➝ Cihampelas ➝ Dago,4.46
+285,van,Cihampelas ➝ Jalan Braga ➝ Pasir Kaliki ➝ Setiabudi,8.54
+286,pick up truck,Buah Batu ➝ Dago ➝ Setiabudi,10.01
+287,pick up truck,Jalan Braga ➝ Dago ➝ Setiabudi,7.27
+288,pick up truck,Buah Batu ➝ Pasir Kaliki ➝ Setiabudi,9.49
+289,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Jalan Braga ➝ Buah Batu,4.9
+290,cargo truck,Kebon Kawung ➝ Cihampelas ➝ Dago ➝ Riau ➝ Buah Batu,12.02
+291,pick up truck,Cihampelas ➝ Lembong ➝ Pasir Kaliki ➝ Setiabudi,8.63
+292,cargo truck,Lembong ➝ Riau ➝ Cihampelas ➝ Dago,5.59
+293,cargo truck,Cihampelas ➝ Jalan Braga ➝ Kebon Kawung ➝ Setiabudi,7.91
+294,pick up truck,Buah Batu ➝ Pasir Kaliki ➝ Riau ➝ Dago,9.85
+295,cargo truck,Dago ➝ Setiabudi ➝ Riau ➝ Ciwidey,34.69
+296,cargo truck,Buah Batu ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago ➝ Setiabudi,11.82
+297,van,Dago ➝ Setiabudi ➝ Riau ➝ Jalan Braga,8.65
+298,cargo truck,Dago ➝ Setiabudi ➝ Jalan Braga ➝ Pasir Kaliki ➝ Ciwidey,34.76
+299,cargo truck,Riau ➝ Jalan Braga ➝ Dago,6.0
+300,van,Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Lembong ➝ Dago,8.07
+301,pick up truck,Buah Batu ➝ Jalan Braga ➝ Riau ➝ Cihampelas,6.08
+302,pick up truck,Jalan Braga ➝ Pasir Kaliki ➝ Dago,6.19
+303,van,Kebon Kawung ➝ Pasir Kaliki ➝ Buah Batu ➝ Jalan Braga ➝ Cihampelas ➝ Dago,13.17
+304,cargo truck,Dago ➝ Kebon Kawung ➝ Lembong ➝ Buah Batu,8.78
+305,cargo truck,Dago ➝ Kebon Kawung ➝ Lembong ➝ Jalan Braga ➝ Ciwidey,31.62
+306,cargo truck,Cihampelas ➝ Dago ➝ Pasir Kaliki ➝ Ciwidey,33.29
+307,cargo truck,Jalan Braga ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago,6.2
+308,van,Setiabudi ➝ Dago ➝ Cihampelas ➝ Pasir Kaliki ➝ Buah Batu,11.79
+309,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago,5.56
+310,pick up truck,Kebon Kawung ➝ Lembong ➝ Cihampelas,3.09
+311,cargo truck,Buah Batu ➝ Lembong ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago ➝ Setiabudi,12.2
+312,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga,9.36
+313,pick up truck,Cihampelas ➝ Riau ➝ Kebon Kawung,3.0
+314,cargo truck,Ciwidey ➝ Pasir Kaliki ➝ Jalan Braga ➝ Cihampelas ➝ Dago,31.6
+315,van,Ciwidey ➝ Pasir Kaliki ➝ Lembong ➝ Cihampelas,28.75
+316,cargo truck,Kebon Kawung ➝ Cihampelas ➝ Dago ➝ Setiabudi,7.04
+317,pick up truck,Cihampelas ➝ Kebon Kawung ➝ Buah Batu,5.78
+318,van,Cihampelas ➝ Riau ➝ Jalan Braga ➝ Ciwidey,28.79
+319,cargo truck,Setiabudi ➝ Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Jalan Braga,8.0
+320,cargo truck,Jalan Braga ➝ Lembong ➝ Cihampelas ➝ Dago ➝ Buah Batu ➝ Ciwidey,37.89
+321,pick up truck,Jalan Braga ➝ Cihampelas ➝ Dago,5.0
+322,van,Kebon Kawung ➝ Jalan Braga ➝ Dago ➝ Setiabudi,8.24
+323,cargo truck,Cihampelas ➝ Dago ➝ Pasir Kaliki ➝ Buah Batu ➝ Ciwidey,37.51
+324,van,Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Lembong ➝ Dago,8.06
+325,pick up truck,Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Lembong,6.07
+326,cargo truck,Lembong ➝ Jalan Braga ➝ Dago ➝ Buah Batu ➝ Ciwidey,37.59
+327,van,Jalan Braga ➝ Cihampelas ➝ Dago ➝ Setiabudi,7.58
+328,cargo truck,Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Jalan Braga ➝ Buah Batu,8.77
+329,van,Setiabudi ➝ Dago ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,12.12
+330,pick up truck,Dago ➝ Setiabudi,2.58
+331,pick up truck,Riau ➝ Cihampelas ➝ Buah Batu ➝ Ciwidey,32.11
+332,pick up truck,Cihampelas ➝ Pasir Kaliki ➝ Riau ➝ Dago,7.65
+333,cargo truck,Dago ➝ Pasir Kaliki ➝ Buah Batu ➝ Ciwidey,34.57
+334,pick up truck,Jalan Braga ➝ Dago,4.69
+335,cargo truck,Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga ➝ Riau ➝ Dago,8.05
+336,cargo truck,Pasir Kaliki ➝ Setiabudi ➝ Cihampelas ➝ Buah Batu ➝ Ciwidey,39.46
+337,pick up truck,Riau ➝ Dago ➝ Cihampelas ➝ Buah Batu,11.74
+338,cargo truck,Setiabudi ➝ Dago ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,12.16
+339,van,Kebon Kawung ➝ Riau ➝ Cihampelas ➝ Dago ➝ Setiabudi,8.52
+340,van,Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Lembong ➝ Ciwidey,34.65
+341,pick up truck,Pasir Kaliki ➝ Dago,4.97
+342,van,Buah Batu ➝ Jalan Braga ➝ Kebon Kawung ➝ Dago,8.74
+343,pick up truck,Buah Batu ➝ Jalan Braga,3.35
+344,cargo truck,Pasir Kaliki ➝ Buah Batu ➝ Lembong ➝ Cihampelas ➝ Dago,12.55
+345,pick up truck,Setiabudi ➝ Riau ➝ Pasir Kaliki,6.9
+346,cargo truck,Riau ➝ Jalan Braga ➝ Kebon Kawung ➝ Dago,6.7
+347,cargo truck,Riau ➝ Buah Batu ➝ Jalan Braga ➝ Kebon Kawung ➝ Setiabudi,13.29
+348,cargo truck,Pasir Kaliki ➝ Buah Batu ➝ Jalan Braga ➝ Cihampelas ➝ Dago ➝ Setiabudi,15.16
+349,cargo truck,Dago ➝ Cihampelas ➝ Riau ➝ Jalan Braga ➝ Ciwidey,31.73
+350,cargo truck,Jalan Braga ➝ Lembong ➝ Riau ➝ Dago,4.82
+351,pick up truck,Kebon Kawung ➝ Jalan Braga ➝ Lembong ➝ Buah Batu,4.39
+352,van,Jalan Braga ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Riau ➝ Dago ➝ Setiabudi,9.45
+353,van,Dago ➝ Setiabudi ➝ Pasir Kaliki ➝ Jalan Braga,9.06
+354,pick up truck,Lembong ➝ Jalan Braga ➝ Kebon Kawung ➝ Riau,2.66
+355,cargo truck,Kebon Kawung ➝ Lembong ➝ Riau ➝ Dago ➝ Setiabudi,8.33
+356,cargo truck,Lembong ➝ Jalan Braga ➝ Pasir Kaliki ➝ Riau ➝ Buah Batu,7.55
+357,cargo truck,Jalan Braga ➝ Buah Batu ➝ Pasir Kaliki ➝ Dago ➝ Setiabudi,15.13
+358,pick up truck,Riau ➝ Cihampelas ➝ Ciwidey,28.77
+359,cargo truck,Buah Batu ➝ Jalan Braga ➝ Pasir Kaliki ➝ Setiabudi ➝ Ciwidey,39.36
+360,pick up truck,Setiabudi ➝ Dago ➝ Cihampelas ➝ Kebon Kawung,7.04
+361,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Riau ➝ Lembong ➝ Buah Batu,12.07
+362,cargo truck,Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Buah Batu ➝ Ciwidey,34.66
+363,cargo truck,Buah Batu ➝ Lembong ➝ Jalan Braga ➝ Cihampelas,5.49
+364,van,Jalan Braga ➝ Kebon Kawung ➝ Cihampelas ➝ Dago ➝ Setiabudi,8.0
+365,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Lembong ➝ Cihampelas ➝ Dago,6.9
+366,pick up truck,Setiabudi ➝ Cihampelas ➝ Kebon Kawung,5.04
+367,van,Dago ➝ Setiabudi ➝ Pasir Kaliki,7.84
+368,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Jalan Braga ➝ Buah Batu,7.51
+369,cargo truck,Lembong ➝ Jalan Braga ➝ Pasir Kaliki ➝ Dago,6.3
+370,van,Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,6.61
+371,van,Dago ➝ Riau ➝ Buah Batu,7.57
+372,cargo truck,Cihampelas ➝ Kebon Kawung ➝ Jalan Braga ➝ Riau ➝ Dago,7.27
+373,cargo truck,Jalan Braga ➝ Buah Batu ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,12.62
+374,van,Pasir Kaliki ➝ Riau ➝ Cihampelas ➝ Dago,6.49
+375,pick up truck,Dago ➝ Riau ➝ Ciwidey,30.83
+376,pick up truck,Dago ➝ Jalan Braga,4.69
+377,pick up truck,Setiabudi ➝ Dago ➝ Cihampelas ➝ Riau,6.94
+378,pick up truck,Kebon Kawung ➝ Riau ➝ Dago,5.06
+379,van,Dago ➝ Lembong ➝ Jalan Braga ➝ Pasir Kaliki,5.97
+380,pick up truck,Lembong ➝ Buah Batu ➝ Kebon Kawung ➝ Dago ➝ Setiabudi,14.58
+381,cargo truck,Lembong ➝ Jalan Braga ➝ Cihampelas ➝ Dago ➝ Setiabudi,7.68
+382,van,Kebon Kawung ➝ Jalan Braga ➝ Cihampelas ➝ Dago,5.96
+383,cargo truck,Dago ➝ Cihampelas ➝ Jalan Braga ➝ Buah Batu,8.35
+384,cargo truck,Jalan Braga ➝ Riau ➝ Cihampelas ➝ Kebon Kawung ➝ Ciwidey,30.21
+385,cargo truck,Pasir Kaliki ➝ Buah Batu ➝ Jalan Braga ➝ Cihampelas ➝ Dago,12.58
+386,van,Lembong ➝ Jalan Braga ➝ Kebon Kawung ➝ Cihampelas ➝ Riau,4.01
+387,van,Setiabudi ➝ Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,10.13
+388,van,Kebon Kawung ➝ Dago ➝ Cihampelas ➝ Pasir Kaliki ➝ Ciwidey,34.78
+389,cargo truck,Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Lembong ➝ Buah Batu,6.74
+390,pick up truck,Dago ➝ Lembong ➝ Ciwidey,30.79
+391,cargo truck,Buah Batu ➝ Pasir Kaliki ➝ Riau ➝ Dago ➝ Setiabudi,12.43
+392,van,Dago ➝ Kebon Kawung ➝ Pasir Kaliki,5.01
+393,van,Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Buah Batu,8.71
+394,van,Dago ➝ Riau ➝ Jalan Braga ➝ Buah Batu,8.14
+395,pick up truck,Dago ➝ Jalan Braga,4.69
+396,cargo truck,Kebon Kawung ➝ Buah Batu ➝ Dago,11.69
+397,cargo truck,Dago ➝ Riau ➝ Jalan Braga ➝ Pasir Kaliki,6.01
+398,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Riau ➝ Dago ➝ Setiabudi,8.78
+399,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Riau ➝ Dago ➝ Setiabudi,8.78
+400,cargo truck,Dago ➝ Cihampelas ➝ Riau ➝ Lembong ➝ Ciwidey,31.74
+401,cargo truck,Setiabudi ➝ Cihampelas ➝ Jalan Braga ➝ Buah Batu,8.93
+402,cargo truck,Jalan Braga ➝ Buah Batu ➝ Cihampelas ➝ Setiabudi,12.19
+403,cargo truck,Jalan Braga ➝ Dago,4.69
+404,cargo truck,Riau ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Dago,7.14
+405,van,Jalan Braga ➝ Dago,4.69
+406,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Pasir Kaliki ➝ Lembong,9.46
+407,van,Dago ➝ Setiabudi ➝ Jalan Braga ➝ Ciwidey,34.21
+408,cargo truck,Jalan Braga ➝ Buah Batu ➝ Cihampelas ➝ Dago,11.61
+409,van,Pasir Kaliki ➝ Kebon Kawung ➝ Jalan Braga ➝ Dago,6.24
+410,van,Setiabudi ➝ Dago ➝ Cihampelas ➝ Kebon Kawung,7.04
+411,van,Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga ➝ Dago,7.95
+412,pick up truck,Lembong ➝ Setiabudi ➝ Ciwidey,35.1
+413,van,Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Riau ➝ Buah Batu,10.71
+414,cargo truck,Lembong ➝ Buah Batu ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago,12.53
+415,van,Setiabudi ➝ Cihampelas ➝ Buah Batu ➝ Ciwidey,34.21
+416,cargo truck,Riau ➝ Dago ➝ Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Ciwidey,37.06
+417,van,Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Cihampelas ➝ Dago,6.8
+418,van,Buah Batu ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi,9.86
+419,cargo truck,Kebon Kawung ➝ Jalan Braga ➝ Lembong ➝ Dago,5.71
+420,van,Setiabudi ➝ Kebon Kawung ➝ Pasir Kaliki,5.47
+421,pick up truck,Cihampelas ➝ Dago ➝ Buah Batu,10.37
+422,pick up truck,Jalan Braga ➝ Cihampelas ➝ Buah Batu,7.38
+423,pick up truck,Cihampelas ➝ Dago ➝ Jalan Braga ➝ Buah Batu,10.98
+424,cargo truck,Pasir Kaliki ➝ Dago ➝ Riau ➝ Jalan Braga ➝ Ciwidey,35.82
+425,cargo truck,Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Jalan Braga,8.43
+426,pick up truck,Jalan Braga ➝ Dago ➝ Setiabudi,7.27
+427,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Jalan Braga ➝ Riau ➝ Dago ➝ Setiabudi,8.92
+428,van,Jalan Braga ➝ Pasir Kaliki ➝ Dago,6.19
+429,pick up truck,Dago ➝ Cihampelas,2.94
+430,pick up truck,Ciwidey ➝ Dago,30.26
+431,van,Pasir Kaliki ➝ Buah Batu ➝ Lembong ➝ Cihampelas ➝ Dago,12.55
+432,cargo truck,Pasir Kaliki ➝ Jalan Braga ➝ Lembong ➝ Dago,5.97
+433,cargo truck,Ciwidey ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Lembong ➝ Riau,28.23
+434,van,Dago ➝ Setiabudi ➝ Riau ➝ Jalan Braga,8.65
+435,van,Ciwidey ➝ Jalan Braga ➝ Lembong ➝ Cihampelas ➝ Dago,31.16
+436,van,Cihampelas ➝ Dago ➝ Riau ➝ Jalan Braga ➝ Ciwidey,33.79
+437,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Cihampelas ➝ Setiabudi,6.15
+438,pick up truck,Riau ➝ Dago ➝ Buah Batu,10.91
+439,van,Jalan Braga ➝ Riau ➝ Setiabudi ➝ Ciwidey,35.61
+440,pick up truck,Dago ➝ Pasir Kaliki,4.97
+441,pick up truck,Riau ➝ Cihampelas,1.42
+442,cargo truck,Jalan Braga ➝ Cihampelas ➝ Setiabudi ➝ Pasir Kaliki ➝ Ciwidey,36.22
+443,van,Riau ➝ Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Ciwidey,35.77
+444,van,Setiabudi ➝ Dago ➝ Jalan Braga,7.27
+445,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Dago ➝ Lembong ➝ Ciwidey,35.83
+446,cargo truck,Dago ➝ Cihampelas ➝ Pasir Kaliki ➝ Lembong ➝ Buah Batu ➝ Ciwidey,34.98
+447,van,Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,5.04
+448,cargo truck,Buah Batu ➝ Jalan Braga ➝ Pasir Kaliki ➝ Dago,9.54
+449,cargo truck,Setiabudi ➝ Riau ➝ Jalan Braga ➝ Kebon Kawung ➝ Ciwidey,33.0
+450,van,Jalan Braga ➝ Kebon Kawung ➝ Riau ➝ Cihampelas ➝ Dago,6.91
+451,van,Buah Batu ➝ Lembong ➝ Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Ciwidey,41.39
+452,cargo truck,Cihampelas ➝ Riau ➝ Jalan Braga ➝ Kebon Kawung ➝ Pasir Kaliki,4.28
+453,pick up truck,Setiabudi ➝ Cihampelas ➝ Ciwidey,30.87
+454,pick up truck,Dago ➝ Riau ➝ Kebon Kawung ➝ Pasir Kaliki,5.65
+455,cargo truck,Buah Batu ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi ➝ Ciwidey,39.39
+456,cargo truck,Kebon Kawung ➝ Lembong ➝ Dago ➝ Setiabudi,8.26
+457,pick up truck,Setiabudi ➝ Dago ➝ Kebon Kawung ➝ Lembong,8.04
+458,van,Jalan Braga ➝ Lembong ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi,7.05
+459,cargo truck,Riau ➝ Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Ciwidey,33.9
+460,van,Buah Batu ➝ Jalan Braga ➝ Dago ➝ Pasir Kaliki ➝ Ciwidey,38.39
+461,pick up truck,Setiabudi ➝ Cihampelas ➝ Buah Batu,8.84
+462,van,Cihampelas ➝ Dago ➝ Setiabudi ➝ Pasir Kaliki ➝ Ciwidey,36.16
+463,pick up truck,Jalan Braga ➝ Dago,4.69
+464,pick up truck,Setiabudi ➝ Dago ➝ Cihampelas ➝ Buah Batu,10.84
+465,van,Cihampelas ➝ Riau ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,8.13
+466,van,Buah Batu ➝ Pasir Kaliki ➝ Riau ➝ Dago ➝ Setiabudi,12.43
+467,van,Jalan Braga ➝ Lembong ➝ Kebon Kawung ➝ Riau ➝ Setiabudi ➝ Ciwidey,37.02
+468,pick up truck,Cihampelas ➝ Kebon Kawung ➝ Jalan Braga ➝ Ciwidey,28.54
+469,pick up truck,Jalan Braga ➝ Pasir Kaliki ➝ Dago,6.19
+470,van,Setiabudi ➝ Dago ➝ Cihampelas ➝ Riau ➝ Lembong,8.17
+471,cargo truck,Jalan Braga ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Buah Batu,5.79
+472,van,Kebon Kawung ➝ Jalan Braga ➝ Dago ➝ Setiabudi,8.24
+473,cargo truck,Setiabudi ➝ Dago ➝ Lembong ➝ Jalan Braga ➝ Pasir Kaliki,8.55
+474,van,Lembong ➝ Jalan Braga ➝ Pasir Kaliki ➝ Cihampelas,3.37
+475,pick up truck,Pasir Kaliki ➝ Cihampelas ➝ Dago,4.98
+476,cargo truck,Cihampelas ➝ Jalan Braga ➝ Dago,6.75
+477,cargo truck,Jalan Braga ➝ Lembong ➝ Cihampelas ➝ Riau ➝ Buah Batu,7.67
+478,pick up truck,Ciwidey ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,30.42
+479,cargo truck,Riau ➝ Cihampelas ➝ Dago ➝ Setiabudi,6.94
+480,van,Setiabudi ➝ Dago ➝ Pasir Kaliki ➝ Ciwidey,32.93
+481,pick up truck,Jalan Braga ➝ Riau ➝ Dago,4.79
+482,cargo truck,Buah Batu ➝ Pasir Kaliki ➝ Riau ➝ Dago ➝ Setiabudi,12.43
+483,van,Buah Batu ➝ Riau ➝ Dago ➝ Setiabudi,10.15
+484,pick up truck,Lembong ➝ Buah Batu ➝ Dago,10.75
+485,pick up truck,Pasir Kaliki ➝ Buah Batu ➝ Lembong ➝ Cihampelas ➝ Dago,12.55
+486,cargo truck,Buah Batu ➝ Cihampelas ➝ Dago,8.26
+487,van,Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas,2.1
+488,cargo truck,Dago ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga,6.23
+489,van,Buah Batu ➝ Riau ➝ Kebon Kawung ➝ Cihampelas ➝ Dago ➝ Setiabudi,12.7
+490,cargo truck,Buah Batu ➝ Jalan Braga ➝ Riau ➝ Dago ➝ Setiabudi,10.72
+491,pick up truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Kebon Kawung,7.62
+492,pick up truck,Cihampelas ➝ Riau ➝ Jalan Braga,2.73
+493,van,Jalan Braga ➝ Lembong ➝ Pasir Kaliki ➝ Dago,6.4
+494,van,Setiabudi ➝ Dago ➝ Riau ➝ Kebon Kawung,7.64
+495,van,Dago ➝ Cihampelas ➝ Jalan Braga ➝ Ciwidey,31.06
+496,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Ciwidey,33.58
+497,cargo truck,Riau ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,6.04
+498,cargo truck,Pasir Kaliki ➝ Setiabudi ➝ Dago ➝ Riau ➝ Jalan Braga ➝ Buah Batu,15.97
+499,cargo truck,Buah Batu ➝ Jalan Braga ➝ Cihampelas,5.41
+500,van,Setiabudi ➝ Dago ➝ Kebon Kawung ➝ Pasir Kaliki,7.59
+501,van,Dago ➝ Setiabudi ➝ Jalan Braga ➝ Lembong ➝ Buah Batu,11.58
+502,van,Lembong ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago,6.33
+503,cargo truck,Buah Batu ➝ Lembong ➝ Riau ➝ Cihampelas,5.97
+504,pick up truck,Dago ➝ Cihampelas ➝ Jalan Braga ➝ Buah Batu,8.35
+505,pick up truck,Lembong ➝ Cihampelas ➝ Ciwidey,29.4
+506,pick up truck,Jalan Braga ➝ Buah Batu ➝ Dago,10.78
+507,pick up truck,Dago ➝ Buah Batu,7.43
+508,cargo truck,Jalan Braga ➝ Buah Batu ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi,12.65
+509,cargo truck,Jalan Braga ➝ Dago ➝ Buah Batu ➝ Ciwidey,37.49
+510,pick up truck,Kebon Kawung ➝ Jalan Braga ➝ Cihampelas,3.03
+511,van,Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,9.61
+512,cargo truck,Jalan Braga ➝ Cihampelas,2.06
+513,van,Cihampelas ➝ Dago ➝ Riau ➝ Buah Batu,10.51
+514,cargo truck,Kebon Kawung ➝ Riau ➝ Cihampelas ➝ Dago,5.94
+515,cargo truck,Dago ➝ Cihampelas ➝ Riau ➝ Pasir Kaliki ➝ Buah Batu,10.73
+516,pick up truck,Setiabudi ➝ Pasir Kaliki ➝ Jalan Braga,6.48
+517,cargo truck,Cihampelas ➝ Setiabudi ➝ Kebon Kawung ➝ Ciwidey,34.37
+518,pick up truck,Dago ➝ Cihampelas,2.94
+519,pick up truck,Setiabudi ➝ Dago ➝ Jalan Braga ➝ Pasir Kaliki,8.49
+520,van,Pasir Kaliki ➝ Kebon Kawung ➝ Lembong ➝ Cihampelas,3.67
+521,van,Lembong ➝ Kebon Kawung ➝ Riau ➝ Dago,6.1
+522,van,Jalan Braga ➝ Cihampelas ➝ Setiabudi ➝ Ciwidey,35.11
+523,van,Lembong ➝ Cihampelas ➝ Jalan Braga ➝ Buah Batu,7.46
+524,cargo truck,Buah Batu ➝ Lembong ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Ciwidey,30.32
+525,pick up truck,Cihampelas ➝ Jalan Braga ➝ Dago,6.75
+526,pick up truck,Dago ➝ Cihampelas ➝ Riau ➝ Kebon Kawung ➝ Pasir Kaliki,6.53
+527,cargo truck,Dago ➝ Kebon Kawung ➝ Jalan Braga,5.39
+528,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Jalan Braga ➝ Dago ➝ Setiabudi,8.82
+529,pick up truck,Jalan Braga ➝ Pasir Kaliki ➝ Setiabudi,6.48
+530,pick up truck,Jalan Braga ➝ Buah Batu ➝ Dago,10.78
+531,van,Dago ➝ Setiabudi ➝ Jalan Braga,8.16
+532,pick up truck,Dago ➝ Ciwidey,30.26
+533,cargo truck,Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Ciwidey,33.43
+534,cargo truck,Cihampelas ➝ Dago ➝ Lembong ➝ Buah Batu,10.9
+535,cargo truck,Setiabudi ➝ Cihampelas ➝ Riau ➝ Buah Batu ➝ Ciwidey,34.39
+536,cargo truck,Ciwidey ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Lembong ➝ Riau,28.23
+537,cargo truck,Riau ➝ Jalan Braga ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,6.73
+538,van,Jalan Braga ➝ Kebon Kawung ➝ Riau ➝ Setiabudi ➝ Ciwidey,36.85
+539,pick up truck,Cihampelas ➝ Dago ➝ Ciwidey,33.2
+540,pick up truck,Setiabudi ➝ Dago ➝ Jalan Braga,7.27
+541,pick up truck,Dago ➝ Kebon Kawung ➝ Pasir Kaliki,5.01
+542,cargo truck,Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Pasir Kaliki,8.05
+543,cargo truck,Dago ➝ Cihampelas ➝ Lembong ➝ Jalan Braga ➝ Ciwidey,31.16
+544,pick up truck,Buah Batu ➝ Riau ➝ Dago,7.57
+545,pick up truck,Pasir Kaliki ➝ Kebon Kawung ➝ Setiabudi,5.47
+546,cargo truck,Dago ➝ Kebon Kawung ➝ Buah Batu ➝ Ciwidey,34.05
+547,pick up truck,Pasir Kaliki ➝ Jalan Braga,1.22
+548,van,Jalan Braga ➝ Riau ➝ Cihampelas ➝ Pasir Kaliki ➝ Ciwidey,30.15
+549,pick up truck,Setiabudi ➝ Cihampelas ➝ Lembong,5.57
+550,van,Cihampelas ➝ Dago ➝ Riau ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,13.12
+551,van,Dago ➝ Setiabudi ➝ Pasir Kaliki,7.84
+552,pick up truck,Setiabudi ➝ Pasir Kaliki ➝ Ciwidey,30.64
+553,van,Lembong ➝ Kebon Kawung ➝ Riau ➝ Dago,6.1
+554,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,12.71
+555,cargo truck,Jalan Braga ➝ Kebon Kawung ➝ Lembong ➝ Buah Batu,5.32
+556,cargo truck,Cihampelas ➝ Kebon Kawung ➝ Jalan Braga ➝ Dago,7.17
+557,pick up truck,Cihampelas ➝ Jalan Braga ➝ Buah Batu,5.41
+558,pick up truck,Dago ➝ Cihampelas ➝ Riau,4.36
+559,cargo truck,Kebon Kawung ➝ Jalan Braga ➝ Cihampelas ➝ Dago,5.96
+560,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Lembong ➝ Setiabudi,7.19
+561,van,Cihampelas ➝ Setiabudi ➝ Dago ➝ Jalan Braga ➝ Buah Batu,14.14
+562,van,Cihampelas ➝ Kebon Kawung ➝ Lembong,2.55
+563,cargo truck,Buah Batu ➝ Jalan Braga ➝ Cihampelas ➝ Dago ➝ Setiabudi,10.93
+564,van,Dago ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga,6.23
+565,cargo truck,Jalan Braga ➝ Lembong ➝ Buah Batu ➝ Pasir Kaliki ➝ Dago,12.63
+566,van,Buah Batu ➝ Lembong ➝ Dago ➝ Kebon Kawung ➝ Ciwidey,38.35
+567,cargo truck,Buah Batu ➝ Lembong ➝ Cihampelas ➝ Dago,8.31
+568,cargo truck,Dago ➝ Kebon Kawung ➝ Jalan Braga ➝ Ciwidey,31.45
+569,pick up truck,Riau ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,6.04
+570,van,Cihampelas ➝ Jalan Braga ➝ Lembong ➝ Dago ➝ Setiabudi,9.39
+571,van,Riau ➝ Lembong ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,6.72
+572,van,Kebon Kawung ➝ Pasir Kaliki ➝ Buah Batu ➝ Setiabudi,13.64
+573,pick up truck,Buah Batu ➝ Dago ➝ Kebon Kawung ➝ Ciwidey,37.81
+574,pick up truck,Ciwidey ➝ Cihampelas ➝ Dago ➝ Setiabudi,32.87
+575,cargo truck,Cihampelas ➝ Lembong ➝ Riau ➝ Dago,6.76
+576,cargo truck,Jalan Braga ➝ Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Buah Batu,8.4
+577,cargo truck,Kebon Kawung ➝ Cihampelas ➝ Riau ➝ Lembong ➝ Jalan Braga ➝ Buah Batu,7.62
+578,van,Buah Batu ➝ Lembong ➝ Pasir Kaliki ➝ Dago,9.61
+579,pick up truck,Jalan Braga ➝ Riau ➝ Dago,4.79
+580,cargo truck,Dago ➝ Kebon Kawung ➝ Lembong,5.46
+581,van,Jalan Braga ➝ Buah Batu,3.35
+582,pick up truck,Dago ➝ Jalan Braga ➝ Pasir Kaliki,5.91
+583,pick up truck,Jalan Braga ➝ Riau ➝ Dago,4.79
+584,cargo truck,Pasir Kaliki ➝ Riau ➝ Cihampelas ➝ Dago,6.49
+585,cargo truck,Setiabudi ➝ Dago ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,12.12
+586,cargo truck,Ciwidey ➝ Jalan Braga ➝ Dago,30.75
+587,pick up truck,Jalan Braga ➝ Pasir Kaliki,1.22
+588,pick up truck,Dago ➝ Kebon Kawung,4.42
+589,cargo truck,Setiabudi ➝ Dago ➝ Jalan Braga ➝ Pasir Kaliki,8.49
+590,cargo truck,Ciwidey ➝ Kebon Kawung ➝ Jalan Braga ➝ Riau ➝ Setiabudi,33.0
+591,pick up truck,Dago ➝ Cihampelas ➝ Pasir Kaliki ➝ Ciwidey,30.36
+592,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Buah Batu ➝ Ciwidey,36.79
+593,cargo truck,Jalan Braga ➝ Dago ➝ Pasir Kaliki ➝ Ciwidey,35.05
+594,cargo truck,Lembong ➝ Jalan Braga ➝ Pasir Kaliki ➝ Buah Batu ➝ Riau ➝ Dago,13.13
+595,van,Lembong ➝ Riau ➝ Dago,4.71
+596,van,Setiabudi ➝ Kebon Kawung ➝ Lembong ➝ Buah Batu,9.24
+597,cargo truck,Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Buah Batu,9.3
+598,van,Dago ➝ Setiabudi ➝ Pasir Kaliki ➝ Jalan Braga,9.06
+599,van,Dago ➝ Cihampelas ➝ Kebon Kawung,4.46
+600,cargo truck,Cihampelas ➝ Lembong ➝ Jalan Braga ➝ Setiabudi,7.73
+601,cargo truck,Pasir Kaliki ➝ Buah Batu ➝ Dago,11.66
+602,cargo truck,Cihampelas ➝ Dago ➝ Jalan Braga ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Ciwidey,34.56
+603,pick up truck,Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Buah Batu,9.3
+604,van,Jalan Braga ➝ Riau ➝ Cihampelas ➝ Dago,5.67
+605,pick up truck,Kebon Kawung ➝ Lembong ➝ Setiabudi,6.61
+606,pick up truck,Kebon Kawung ➝ Jalan Braga ➝ Cihampelas,3.03
+607,pick up truck,Dago ➝ Riau ➝ Buah Batu,7.57
+608,cargo truck,Pasir Kaliki ➝ Buah Batu ➝ Lembong ➝ Cihampelas ➝ Dago,12.55
+609,pick up truck,Kebon Kawung ➝ Cihampelas,1.52
+610,cargo truck,Dago ➝ Lembong ➝ Buah Batu,7.96
+611,cargo truck,Ciwidey ➝ Setiabudi ➝ Dago,32.11
+612,cargo truck,Riau ➝ Dago ➝ Kebon Kawung ➝ Jalan Braga ➝ Ciwidey,34.93
+613,pick up truck,Jalan Braga ➝ Dago ➝ Setiabudi,7.27
+614,cargo truck,Jalan Braga ➝ Dago ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Ciwidey,35.08
+615,pick up truck,Lembong ➝ Buah Batu ➝ Pasir Kaliki ➝ Dago,12.53
+616,pick up truck,Cihampelas ➝ Kebon Kawung ➝ Lembong ➝ Dago,7.19
+617,pick up truck,Jalan Braga ➝ Setiabudi,5.58
+618,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Riau ➝ Lembong ➝ Buah Batu,6.72
+619,van,Lembong ➝ Jalan Braga ➝ Riau ➝ Cihampelas,2.83
+620,van,Jalan Braga ➝ Pasir Kaliki ➝ Dago ➝ Setiabudi,8.77
+621,pick up truck,Dago ➝ Kebon Kawung ➝ Lembong ➝ Ciwidey,31.61
+622,pick up truck,Setiabudi ➝ Riau,4.77
+623,pick up truck,Lembong ➝ Kebon Kawung ➝ Riau,2.62
+624,van,Jalan Braga ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,5.42
+626,pick up truck,Kebon Kawung ➝ Pasir Kaliki ➝ Dago,5.56
+627,van,Setiabudi ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu ➝ Ciwidey,35.19
+628,cargo truck,Cihampelas ➝ Dago ➝ Lembong ➝ Buah Batu ➝ Ciwidey,36.27
+629,van,Jalan Braga ➝ Riau ➝ Dago,4.79
+630,van,Dago ➝ Riau ➝ Jalan Braga ➝ Buah Batu,8.14
+631,pick up truck,Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Lembong,1.91
+632,van,Jalan Braga ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi,6.0
+633,cargo truck,Lembong ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago ➝ Setiabudi,8.91
+634,cargo truck,Dago ➝ Cihampelas ➝ Riau ➝ Jalan Braga ➝ Buah Batu,9.02
+635,pick up truck,Ciwidey ➝ Buah Batu ➝ Cihampelas ➝ Dago,33.62
+636,cargo truck,Setiabudi ➝ Riau ➝ Jalan Braga ➝ Pasir Kaliki,7.3
+637,cargo truck,Buah Batu ➝ Riau ➝ Kebon Kawung ➝ Cihampelas ➝ Dago ➝ Setiabudi,12.7
+638,pick up truck,Lembong ➝ Kebon Kawung ➝ Riau ➝ Setiabudi,7.39
+639,van,Dago ➝ Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki,8.2
+640,cargo truck,Cihampelas ➝ Pasir Kaliki ➝ Dago ➝ Setiabudi,9.59
+641,cargo truck,Setiabudi ➝ Dago ➝ Lembong,7.22
+642,cargo truck,Buah Batu ➝ Lembong ➝ Jalan Braga ➝ Kebon Kawung ➝ Dago,8.82
+643,pick up truck,Dago ➝ Cihampelas ➝ Kebon Kawung,4.46
+644,cargo truck,Ciwidey ➝ Kebon Kawung ➝ Riau ➝ Dago ➝ Setiabudi,33.61
+645,cargo truck,Lembong ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago ➝ Setiabudi ➝ Ciwidey,38.44
+646,van,Cihampelas ➝ Kebon Kawung ➝ Jalan Braga ➝ Ciwidey,28.54
+647,pick up truck,Jalan Braga ➝ Lembong ➝ Cihampelas,2.16
+648,pick up truck,Cihampelas ➝ Riau,1.42
+649,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Ciwidey,33.58
+650,van,Buah Batu ➝ Jalan Braga ➝ Lembong ➝ Dago,8.1
+651,van,Kebon Kawung ➝ Pasir Kaliki ➝ Cihampelas ➝ Jalan Braga ➝ Buah Batu,8.03
+652,van,Ciwidey ➝ Pasir Kaliki ➝ Jalan Braga ➝ Cihampelas ➝ Dago,31.6
+653,cargo truck,Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga ➝ Dago ➝ Setiabudi,10.53
+654,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Jalan Braga ➝ Buah Batu,11.51
+655,van,Riau ➝ Dago ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,13.02
+656,pick up truck,Riau ➝ Kebon Kawung,1.58
+657,van,Dago ➝ Cihampelas ➝ Jalan Braga ➝ Ciwidey,31.06
+658,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Riau ➝ Buah Batu,11.61
+659,van,Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga ➝ Dago,7.95
+660,pick up truck,Riau ➝ Jalan Braga,1.31
+661,pick up truck,Ciwidey ➝ Pasir Kaliki ➝ Lembong ➝ Dago,31.34
+662,pick up truck,Kebon Kawung ➝ Cihampelas ➝ Setiabudi,5.04
+663,van,Kebon Kawung ➝ Dago ➝ Cihampelas ➝ Pasir Kaliki ➝ Ciwidey,34.78
+664,cargo truck,Kebon Kawung ➝ Cihampelas ➝ Pasir Kaliki ➝ Buah Batu ➝ Ciwidey,33.16
+665,pick up truck,Buah Batu ➝ Riau ➝ Cihampelas,5.51
+666,van,Lembong ➝ Jalan Braga ➝ Dago,4.8
+667,cargo truck,Cihampelas ➝ Kebon Kawung ➝ Jalan Braga ➝ Riau ➝ Dago ➝ Setiabudi,9.85
+668,van,Jalan Braga ➝ Lembong ➝ Riau ➝ Setiabudi,6.1
+669,cargo truck,Riau ➝ Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Lembong ➝ Ciwidey,35.12
+670,van,Kebon Kawung ➝ Buah Batu ➝ Riau ➝ Cihampelas ➝ Dago ➝ Setiabudi,15.28
+671,cargo truck,Kebon Kawung ➝ Dago ➝ Cihampelas ➝ Ciwidey,34.71
+672,van,Buah Batu ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago ➝ Setiabudi,11.79
+673,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu ➝ Dago,12.59
+674,pick up truck,Dago ➝ Cihampelas ➝ Kebon Kawung,4.46
+675,pick up truck,Jalan Braga ➝ Kebon Kawung,0.97
+676,cargo truck,Cihampelas ➝ Kebon Kawung ➝ Jalan Braga ➝ Riau ➝ Dago,7.27
+677,cargo truck,Lembong ➝ Kebon Kawung ➝ Dago ➝ Setiabudi,8.04
+678,van,Buah Batu ➝ Jalan Braga ➝ Kebon Kawung ➝ Cihampelas,5.83
+679,cargo truck,Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Buah Batu ➝ Ciwidey,34.08
+680,cargo truck,Dago ➝ Cihampelas ➝ Pasir Kaliki ➝ Lembong,6.3
+681,pick up truck,Dago ➝ Setiabudi ➝ Jalan Braga,8.16
+682,van,Cihampelas ➝ Setiabudi ➝ Riau ➝ Pasir Kaliki ➝ Buah Batu,14.66
+683,pick up truck,Jalan Braga ➝ Pasir Kaliki ➝ Setiabudi ➝ Ciwidey,36.01
+684,pick up truck,Buah Batu ➝ Jalan Braga ➝ Ciwidey,29.41
+685,cargo truck,Jalan Braga ➝ Kebon Kawung ➝ Cihampelas ➝ Riau ➝ Buah Batu,7.99
+686,cargo truck,Buah Batu ➝ Jalan Braga ➝ Cihampelas ➝ Setiabudi,8.93
+687,van,Dago ➝ Setiabudi ➝ Riau ➝ Lembong ➝ Pasir Kaliki ➝ Ciwidey,35.28
+688,cargo truck,Buah Batu ➝ Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Ciwidey,37.85
+689,van,Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi ➝ Ciwidey,35.15
+690,cargo truck,Dago ➝ Setiabudi ➝ Cihampelas ➝ Riau,7.52
+691,cargo truck,Dago ➝ Lembong ➝ Jalan Braga ➝ Kebon Kawung ➝ Pasir Kaliki,6.3
+692,van,Pasir Kaliki ➝ Setiabudi ➝ Buah Batu ➝ Ciwidey,39.44
+693,cargo truck,Setiabudi ➝ Cihampelas ➝ Riau ➝ Pasir Kaliki,7.08
+694,pick up truck,Riau ➝ Pasir Kaliki ➝ Dago,7.1
+695,van,Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Pasir Kaliki,8.05
+696,pick up truck,Pasir Kaliki ➝ Lembong ➝ Riau ➝ Dago,6.03
+697,van,Lembong ➝ Jalan Braga ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago,6.33
+698,cargo truck,Dago ➝ Riau ➝ Lembong ➝ Kebon Kawung,5.75
+699,pick up truck,Pasir Kaliki ➝ Cihampelas ➝ Dago,4.98
+700,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Cihampelas ➝ Jalan Braga ➝ Buah Batu,8.03
+701,cargo truck,Jalan Braga ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,5.42
+702,van,Cihampelas ➝ Riau ➝ Dago ➝ Setiabudi,7.48
+703,cargo truck,Jalan Braga ➝ Cihampelas ➝ Setiabudi ➝ Buah Batu ➝ Ciwidey,39.77
+704,pick up truck,Dago ➝ Cihampelas ➝ Pasir Kaliki,4.98
+705,pick up truck,Setiabudi ➝ Dago,2.58
+706,cargo truck,Setiabudi ➝ Dago ➝ Jalan Braga ➝ Pasir Kaliki ➝ Ciwidey,33.88
+707,pick up truck,Lembong ➝ Pasir Kaliki ➝ Dago,6.29
+708,cargo truck,Cihampelas ➝ Jalan Braga ➝ Lembong ➝ Buah Batu,5.49
+709,van,Lembong ➝ Jalan Braga ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Dago,6.33
+710,pick up truck,Kebon Kawung ➝ Jalan Braga,0.97
+711,van,Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu ➝ Dago,12.59
+712,pick up truck,Buah Batu ➝ Jalan Braga ➝ Dago,8.04
+713,cargo truck,Setiabudi ➝ Dago ➝ Cihampelas ➝ Kebon Kawung ➝ Buah Batu,11.29
+714,cargo truck,Setiabudi ➝ Dago ➝ Cihampelas ➝ Lembong ➝ Jalan Braga,7.68
+715,pick up truck,Jalan Braga ➝ Kebon Kawung,0.97
+716,van,Buah Batu ➝ Ciwidey,25.36
+717,pick up truck,Dago ➝ Riau ➝ Jalan Braga,4.79
+718,pick up truck,Dago ➝ Kebon Kawung ➝ Buah Batu,8.68
+719,cargo truck,Ciwidey ➝ Buah Batu ➝ Kebon Kawung ➝ Cihampelas ➝ Dago,34.08
+720,van,Setiabudi ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Buah Batu,9.7
+721,cargo truck,Jalan Braga ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Riau ➝ Setiabudi,8.16
+722,pick up truck,Lembong ➝ Jalan Braga ➝ Dago,4.8
+723,cargo truck,Riau ➝ Lembong ➝ Pasir Kaliki ➝ Dago ➝ Setiabudi ➝ Ciwidey,39.63
+724,van,Setiabudi ➝ Cihampelas ➝ Jalan Braga,5.58
+725,van,Riau ➝ Buah Batu ➝ Dago ➝ Setiabudi,14.1
+726,cargo truck,Kebon Kawung ➝ Lembong ➝ Buah Batu ➝ Dago ➝ Setiabudi,14.37
+727,van,Setiabudi ➝ Dago ➝ Buah Batu,10.01
+728,cargo truck,Setiabudi ➝ Cihampelas ➝ Riau ➝ Lembong ➝ Jalan Braga ➝ Kebon Kawung,7.25
+729,cargo truck,Setiabudi ➝ Dago ➝ Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga,8.78
+730,cargo truck,Pasir Kaliki ➝ Jalan Braga ➝ Lembong ➝ Riau ➝ Setiabudi,7.33
+731,cargo truck,Pasir Kaliki ➝ Dago ➝ Setiabudi,7.55
+732,cargo truck,Jalan Braga ➝ Kebon Kawung ➝ Riau ➝ Cihampelas ➝ Dago,6.91
+733,cargo truck,Cihampelas ➝ Pasir Kaliki ➝ Lembong ➝ Buah Batu,6.68
+734,van,Cihampelas ➝ Dago ➝ Pasir Kaliki ➝ Buah Batu,12.15
+735,cargo truck,Buah Batu ➝ Jalan Braga ➝ Lembong ➝ Riau ➝ Setiabudi,9.45
+736,van,Pasir Kaliki ➝ Jalan Braga ➝ Kebon Kawung ➝ Setiabudi,7.07
+737,van,Ciwidey ➝ Buah Batu ➝ Dago,32.79
+738,cargo truck,Cihampelas ➝ Dago ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,12.48
+739,van,Pasir Kaliki ➝ Lembong ➝ Cihampelas ➝ Setiabudi,6.89
+740,cargo truck,Pasir Kaliki ➝ Cihampelas ➝ Dago,4.98
+741,cargo truck,Setiabudi ➝ Dago ➝ Lembong ➝ Buah Batu ➝ Ciwidey,35.91
+742,van,Ciwidey ➝ Buah Batu ➝ Cihampelas ➝ Setiabudi,34.21
+743,cargo truck,Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas ➝ Jalan Braga ➝ Ciwidey,30.22
+744,cargo truck,Ciwidey ➝ Buah Batu ➝ Jalan Braga ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Setiabudi,35.4
+745,pick up truck,Riau ➝ Cihampelas ➝ Pasir Kaliki,3.46
+746,cargo truck,Jalan Braga ➝ Dago ➝ Buah Batu ➝ Ciwidey,37.49
+747,pick up truck,Pasir Kaliki ➝ Kebon Kawung ➝ Riau ➝ Setiabudi,6.94
+748,pick up truck,Riau ➝ Pasir Kaliki ➝ Dago,7.1
+749,pick up truck,Setiabudi ➝ Dago ➝ Jalan Braga,7.27
+750,van,Setiabudi ➝ Dago ➝ Buah Batu ➝ Ciwidey,35.37
+751,pick up truck,Setiabudi ➝ Jalan Braga ➝ Buah Batu,8.93
+752,cargo truck,Buah Batu ➝ Lembong ➝ Jalan Braga ➝ Cihampelas ➝ Setiabudi,9.01
+753,pick up truck,Lembong ➝ Kebon Kawung ➝ Dago,5.46
+754,van,Cihampelas ➝ Riau ➝ Dago ➝ Setiabudi,7.48
+755,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga,1.81
+756,cargo truck,Buah Batu ➝ Jalan Braga ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago ➝ Setiabudi,12.13
+757,cargo truck,Buah Batu ➝ Jalan Braga ➝ Cihampelas,5.41
+758,pick up truck,Ciwidey ➝ Lembong ➝ Dago,30.79
+759,pick up truck,Kebon Kawung ➝ Pasir Kaliki ➝ Buah Batu ➝ Dago,12.25
+760,van,Riau ➝ Cihampelas ➝ Dago ➝ Setiabudi,6.94
+761,cargo truck,Dago ➝ Kebon Kawung ➝ Jalan Braga ➝ Buah Batu,8.74
+762,cargo truck,Ciwidey ➝ Kebon Kawung ➝ Cihampelas ➝ Dago ➝ Setiabudi,33.0
+763,pick up truck,Cihampelas ➝ Jalan Braga ➝ Setiabudi,7.64
+764,cargo truck,Dago ➝ Cihampelas ➝ Lembong ➝ Jalan Braga,5.1
+765,cargo truck,Ciwidey ➝ Pasir Kaliki ➝ Lembong ➝ Riau ➝ Dago,31.41
+766,cargo truck,Jalan Braga ➝ Lembong ➝ Riau ➝ Cihampelas,2.76
+767,pick up truck,Ciwidey ➝ Lembong ➝ Riau ➝ Cihampelas,28.8
+768,van,Dago ➝ Cihampelas ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu ➝ Ciwidey,34.91
+769,van,Cihampelas ➝ Dago ➝ Setiabudi,5.52
+770,van,Buah Batu ➝ Lembong ➝ Kebon Kawung ➝ Dago,8.78
+771,cargo truck,Kebon Kawung ➝ Pasir Kaliki ➝ Buah Batu ➝ Dago,12.25
+772,cargo truck,Jalan Braga ➝ Lembong ➝ Kebon Kawung,1.14
+773,pick up truck,Riau ➝ Lembong ➝ Jalan Braga,1.34
+774,pick up truck,Ciwidey ➝ Buah Batu ➝ Pasir Kaliki,29.6
+775,pick up truck,Riau ➝ Kebon Kawung ➝ Dago,6.01
+776,cargo truck,Cihampelas ➝ Jalan Braga ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Setiabudi,8.75
+777,van,Pasir Kaliki ➝ Jalan Braga ➝ Dago ➝ Setiabudi,8.49
+778,cargo truck,Riau ➝ Jalan Braga ➝ Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas,4.63
+779,van,Cihampelas ➝ Dago ➝ Lembong ➝ Ciwidey,33.73
+780,pick up truck,Jalan Braga ➝ Lembong ➝ Dago,4.75
+781,cargo truck,Cihampelas ➝ Dago ➝ Jalan Braga ➝ Buah Batu,10.98
+782,cargo truck,Buah Batu ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago,9.21
+783,van,Kebon Kawung ➝ Jalan Braga ➝ Cihampelas,3.03
+784,van,Riau ➝ Jalan Braga ➝ Kebon Kawung ➝ Cihampelas,3.79
+785,cargo truck,Lembong ➝ Jalan Braga ➝ Cihampelas ➝ Dago ➝ Setiabudi,7.68
+786,van,Kebon Kawung ➝ Pasir Kaliki ➝ Buah Batu,4.82
+787,cargo truck,Pasir Kaliki ➝ Buah Batu ➝ Riau ➝ Setiabudi,13.09
+788,van,Cihampelas ➝ Setiabudi ➝ Kebon Kawung ➝ Ciwidey,34.37
+789,van,Cihampelas ➝ Setiabudi ➝ Buah Batu ➝ Ciwidey,37.71
+790,van,Dago ➝ Setiabudi ➝ Cihampelas ➝ Pasir Kaliki,8.14
+791,cargo truck,Ciwidey ➝ Pasir Kaliki ➝ Cihampelas ➝ Setiabudi,30.94
+792,van,Jalan Braga ➝ Buah Batu ➝ Riau ➝ Kebon Kawung ➝ Cihampelas ➝ Setiabudi,14.06
+793,van,Riau ➝ Cihampelas ➝ Kebon Kawung ➝ Buah Batu,7.2
+794,cargo truck,Buah Batu ➝ Jalan Braga ➝ Cihampelas ➝ Setiabudi ➝ Ciwidey,38.46
+795,van,Pasir Kaliki ➝ Cihampelas ➝ Dago ➝ Setiabudi,7.56
+796,cargo truck,Dago ➝ Setiabudi ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Jalan Braga,9.27
+797,van,Riau ➝ Jalan Braga ➝ Cihampelas ➝ Dago,6.31
+798,pick up truck,Cihampelas ➝ Jalan Braga,2.06
+799,cargo truck,Lembong ➝ Buah Batu ➝ Cihampelas ➝ Dago,11.58
+800,van,Cihampelas ➝ Dago ➝ Jalan Braga ➝ Buah Batu ➝ Ciwidey,36.35
+801,van,Pasir Kaliki ➝ Jalan Braga ➝ Lembong ➝ Cihampelas ➝ Dago,6.32
+802,van,Cihampelas ➝ Pasir Kaliki ➝ Lembong ➝ Dago,8.0
+803,cargo truck,Cihampelas ➝ Dago ➝ Jalan Braga ➝ Buah Batu,10.98
+804,cargo truck,Kebon Kawung ➝ Cihampelas ➝ Dago ➝ Setiabudi ➝ Ciwidey,36.57
+805,cargo truck,Dago ➝ Cihampelas ➝ Riau ➝ Lembong,5.59
+806,van,Riau ➝ Dago ➝ Cihampelas ➝ Ciwidey,33.77
+807,pick up truck,Setiabudi ➝ Ciwidey,29.53
+808,cargo truck,Cihampelas ➝ Jalan Braga ➝ Buah Batu ➝ Ciwidey,30.77
+809,cargo truck,Jalan Braga ➝ Cihampelas ➝ Dago ➝ Setiabudi ➝ Ciwidey,37.11
+810,van,Ciwidey ➝ Kebon Kawung,25.96
+811,cargo truck,Setiabudi ➝ Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu,9.83
+812,van,Jalan Braga ➝ Lembong ➝ Dago ➝ Ciwidey,35.0
+813,cargo truck,Riau ➝ Dago ➝ Lembong ➝ Buah Batu ➝ Ciwidey,36.81
+814,van,Setiabudi ➝ Dago ➝ Cihampelas ➝ Jalan Braga,7.58
+815,van,Lembong ➝ Kebon Kawung ➝ Dago,5.46
+816,pick up truck,Cihampelas ➝ Riau ➝ Dago,4.9
+817,pick up truck,Kebon Kawung ➝ Pasir Kaliki ➝ Riau,2.72
+818,cargo truck,Pasir Kaliki ➝ Cihampelas ➝ Dago ➝ Jalan Braga ➝ Ciwidey,35.73
+819,cargo truck,Riau ➝ Jalan Braga ➝ Cihampelas ➝ Dago ➝ Setiabudi,8.89
+820,van,Pasir Kaliki ➝ Jalan Braga ➝ Riau ➝ Buah Batu,6.62
+821,van,Setiabudi ➝ Kebon Kawung ➝ Jalan Braga ➝ Buah Batu ➝ Ciwidey,34.56
+822,pick up truck,Dago ➝ Cihampelas ➝ Jalan Braga,5.0
+823,pick up truck,Pasir Kaliki ➝ Kebon Kawung ➝ Cihampelas,2.1
+824,van,Riau ➝ Dago ➝ Jalan Braga ➝ Ciwidey,34.23
+825,cargo truck,Pasir Kaliki ➝ Jalan Braga ➝ Buah Batu ➝ Riau ➝ Dago ➝ Setiabudi,14.72
+826,cargo truck,Dago ➝ Cihampelas ➝ Pasir Kaliki,4.98
+827,van,Pasir Kaliki ➝ Lembong ➝ Riau ➝ Cihampelas,3.97
+828,cargo truck,Buah Batu ➝ Cihampelas ➝ Dago ➝ Setiabudi,10.84
+829,van,Pasir Kaliki ➝ Jalan Braga ➝ Lembong ➝ Setiabudi,6.9
+830,cargo truck,Dago ➝ Cihampelas ➝ Pasir Kaliki,4.98
+831,pick up truck,Dago ➝ Kebon Kawung,4.42
+832,van,Jalan Braga ➝ Dago ➝ Setiabudi ➝ Ciwidey,36.8
+833,van,Jalan Braga ➝ Cihampelas ➝ Dago,5.0
+834,cargo truck,Cihampelas ➝ Kebon Kawung ➝ Pasir Kaliki ➝ Ciwidey,27.48
+835,van,Dago ➝ Lembong ➝ Jalan Braga,4.75
+836,cargo truck,Setiabudi ➝ Cihampelas ➝ Kebon Kawung ➝ Buah Batu,9.3
+837,van,Dago ➝ Riau,3.48
+838,van,Lembong ➝ Jalan Braga ➝ Cihampelas ➝ Setiabudi,5.69
+839,van,Pasir Kaliki ➝ Jalan Braga ➝ Cihampelas ➝ Dago ➝ Setiabudi,8.8
+840,cargo truck,Dago ➝ Kebon Kawung ➝ Buah Batu,8.68
+841,van,Jalan Braga ➝ Dago ➝ Setiabudi,7.27
+842,pick up truck,Jalan Braga ➝ Kebon Kawung ➝ Pasir Kaliki,1.55
+843,van,Buah Batu ➝ Lembong ➝ Pasir Kaliki ➝ Cihampelas ➝ Dago,9.62
+844,cargo truck,Buah Batu ➝ Dago ➝ Jalan Braga ➝ Ciwidey,38.18
+845,cargo truck,Jalan Braga ➝ Lembong ➝ Cihampelas ➝ Ciwidey,29.51
+846,cargo truck,Jalan Braga ➝ Buah Batu ➝ Cihampelas ➝ Dago,11.61
+847,van,Setiabudi ➝ Riau ➝ Jalan Braga,6.08
+848,cargo truck,Riau ➝ Pasir Kaliki ➝ Lembong ➝ Buah Batu ➝ Ciwidey,32.14
+849,cargo truck,Kebon Kawung ➝ Cihampelas ➝ Dago,4.46
+850,cargo truck,Kebon Kawung ➝ Jalan Braga ➝ Lembong ➝ Cihampelas ➝ Setiabudi,6.65
+851,cargo truck,Jalan Braga ➝ Cihampelas ➝ Dago,5.0
+852,van,Setiabudi ➝ Dago ➝ Pasir Kaliki,7.55
+853,van,Kebon Kawung ➝ Jalan Braga ➝ Dago,5.66

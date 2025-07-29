@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+folium
+streamlit-folium
+geopy
+mysql-connector-python
+plotly
